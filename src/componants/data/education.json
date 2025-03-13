@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "role": "Bachelor in Computer Engineering",
+    "startDate": "NOV, 2021",
+    "endDate": "Present",
+    "location": "Ahmednager ,maharashtra",
+    "college": [
+      "Vishwabharati Academy's College of Engineering ,",
+      "Ahmednager"
+    ],
+    "imageSrc":"company/vlogo.png"
+  },
+  {
+    "id": 2,
+    "role": "Diploma in Computer Engineering",
+    "startDate": "Aug, 2019",
+    "endDate": "Oct, 2021",
+    "location": "Ashoknager, Maharashtra",
+    "college": [
+      "Ashok Institute of Engineering and Technology(Polytechnic),",
+      "Ashoknager"
+    ],
+    "imageSrc": "company/alogo.png"
+  },
+  {
+    "id": 3,
+    "role": "XII Science",
+    "startDate": "Jul, 2017",
+    "endDate": "Jul, 2019",
+    "location": "Rahuri, Maharashtra",
+    "college": [
+      "Arts,Science And Commerce College",
+      "Rahuri"
+    ],
+    "imageSrc": "company/rlogo.png"
+  }
+]

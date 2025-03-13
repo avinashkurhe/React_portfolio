@@ -1,0 +1,42 @@
+[
+  {
+    "key": 1,
+    "title": "Spotify Clone Website",
+    "imageSrc": "https://wallpaperaccess.com/full/9250480.jpg",
+    "description": "This is a project made with Html,CSS,bootstrap And Js.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/avinashkurhe/spotify_clone.git"
+  },
+  {
+    "key": 2,
+    "title": "ROCK-PAPER-SEASER",
+    "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWeskYq2rWpBoINeLcmVlIvGiS1uOPzsYwtw&s",
+    "description": "This is a project made with Javascript",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/avinashkurhe/Rock_paper_seaser.git"
+  },
+  {
+    "key": 3,
+    "title": "Stop Watch",
+    "imageSrc": "https://th.bing.com/th/id/R.3d91aa187d96224ac4262ad6e380e194?rik=4qOJLcwav2S9PA&riu=http%3a%2f%2fjavacodepoint.com%2fwp-content%2fuploads%2f2021%2f12%2fjs_stopwatch-min.png&ehk=MVWAgQZP6MhjbcoA6l0qYD9IEo%2fwsprGae7dEUPP2DE%3d&risl=&pid=ImgRaw&r=0",
+    "description": "This is a project made with Html,CSS,Javascript ",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/avinashkurhe/Stopwatch.git"
+  },
+  {
+    "key": 4,
+    "title": "No Guessing Game",
+    "imageSrc": "https://i.ytimg.com/vi/E-Voff821tE/maxresdefault.jpg",
+    "description": "This is a project made with Python ",
+    "demo": "#",
+    "source": "https://github.com/avinashkurhe/NO-guessing-game.git"
+  },
+  {
+    "key": 5,
+    "title": "Ecomarce Website",
+    "imageSrc": "https://png.pngtree.com/png-clipart/20220213/original/pngtree-e-letter-logo-ecommerce-shop-store-design-png-image_7265997.png",
+    "description": "This is a project made with Python and Django ",
+    "demo": "#",
+    "source": "/"
+  }
+]
