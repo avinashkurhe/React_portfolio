@@ -31,7 +31,7 @@ function Home() {
       <div className='container home my-5' id='home'>
         <div className='left'>
           <h1 ref={typedRef}> </h1>
-          <a href={pdf} download='Avinash_resume.pdf' className='btn btn-outline-warning my-3'>Download Resume</a>
+          <a href="https://drive.google.com/file/d/1y3Wn5EWaZ31WdpYTeLbO-SzJuKugxuZr/view?usp=sharing" download='Avinash_resume.pdf' className='btn btn-outline-warning my-3'>Download Resume</a>
         </div>
         <div className='right'>
           <div className='img'>
