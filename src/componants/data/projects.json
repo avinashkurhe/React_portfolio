@@ -3,39 +3,47 @@
     "key": 1,
     "title": "Spotify Clone Website",
     "imageSrc": "https://wallpaperaccess.com/full/9250480.jpg",
-    "description": "This is a project made with Html,CSS,bootstrap And Js.",
-    "demo": "https://www.example.com",
+    "description": "A responsive Spotify clone built using HTML, CSS, Bootstrap, and JavaScript. Features include a sleek UI, music player controls, and dynamic elements for a seamless experience.",
+    "demo": "/",
     "source": "https://github.com/avinashkurhe/spotify_clone.git"
   },
   {
     "key": 2,
-    "title": "ROCK-PAPER-SEASER",
+    "title": "Rock-Paper-Scissors Game",
     "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWeskYq2rWpBoINeLcmVlIvGiS1uOPzsYwtw&s",
-    "description": "This is a project made with Javascript",
+    "description": "A simple yet interactive Rock-Paper-Scissors game built using JavaScript. The game lets users play against the computer with real-time score updates and animations.",
     "demo": "https://www.example.com",
     "source": "https://github.com/avinashkurhe/Rock_paper_seaser.git"
   },
   {
     "key": 3,
-    "title": "Stop Watch",
+    "title": "Stopwatch Application",
     "imageSrc": "https://th.bing.com/th/id/R.3d91aa187d96224ac4262ad6e380e194?rik=4qOJLcwav2S9PA&riu=http%3a%2f%2fjavacodepoint.com%2fwp-content%2fuploads%2f2021%2f12%2fjs_stopwatch-min.png&ehk=MVWAgQZP6MhjbcoA6l0qYD9IEo%2fwsprGae7dEUPP2DE%3d&risl=&pid=ImgRaw&r=0",
-    "description": "This is a project made with Html,CSS,Javascript ",
+    "description": "A fully functional stopwatch built using HTML, CSS, and JavaScript. Features include start, stop, reset, and lap functionality with an intuitive interface.",
     "demo": "https://www.example.com",
     "source": "https://github.com/avinashkurhe/Stopwatch.git"
   },
   {
     "key": 4,
-    "title": "No Guessing Game",
+    "title": "Number Guessing Game",
     "imageSrc": "https://i.ytimg.com/vi/E-Voff821tE/maxresdefault.jpg",
-    "description": "This is a project made with Python ",
+    "description": "A fun and engaging number guessing game developed using Python. The player must guess the correct number within a given range, with hints provided based on each guess.",
     "demo": "#",
     "source": "https://github.com/avinashkurhe/NO-guessing-game.git"
   },
   {
     "key": 5,
-    "title": "Ecomarce Website",
+    "title": "E-Commerce Website",
     "imageSrc": "https://png.pngtree.com/png-clipart/20220213/original/pngtree-e-letter-logo-ecommerce-shop-store-design-png-image_7265997.png",
-    "description": "This is a project made with Python and Django ",
+    "description": "A dynamic and fully functional e-commerce website developed using Python and Django. Features include product listings, cart functionality, user authentication, and payment integration.",
+    "demo": "#",
+    "source": "/"
+  },
+  {
+    "key": 6,
+    "title": "Easy-Job Portal",
+    "imageSrc": "https://png.pngtree.com/png-clipart/20220213/original/pngtree-e-letter-logo-ecommerce-shop-store-design-png-image_7265997.png",
+    "description": "A job portal platform developed using Python and Django. Users can search for jobs, apply online, and companies can post vacancies with admin controls for managing users and listings.",
     "demo": "#",
     "source": "/"
   }
