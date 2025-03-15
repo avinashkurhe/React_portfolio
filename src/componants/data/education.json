@@ -22,17 +22,5 @@
       "Ashoknager"
     ],
     "imageSrc": "company/alogo.png"
-  },
-  {
-    "id": 3,
-    "role": "XII Science",
-    "startDate": "Jul, 2017",
-    "endDate": "Jul, 2019",
-    "location": "Rahuri, Maharashtra",
-    "college": [
-      "Arts,Science And Commerce College",
-      "Rahuri"
-    ],
-    "imageSrc": "company/rlogo.png"
   }
 ]
