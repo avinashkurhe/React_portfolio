@@ -17,7 +17,6 @@ function Project() {
                 <h5>{data.title}</h5>
                 <p>{data.description}</p>
                 <div className="project-buttons">
-                  <a href={data.demo} className="btn btn-primary" target="_blank" rel="noopener noreferrer">Demo</a>
                   <a href={data.source} className="btn btn-warning" target="_blank" rel="noopener noreferrer">Code</a>
                 </div>
               </div>
